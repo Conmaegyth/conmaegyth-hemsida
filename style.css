@@ -1,0 +1,24 @@
+body {
+    display: center;
+   }
+   .yoghurt{
+       display: center;
+       width:20%;
+   }
+   label {
+       display: block;
+       font: 1rem 'Times New Roman', Times-New-Roman
+       ;
+   }
+   
+   input,
+   label {
+       margin: .4rem 0;
+   }
+   
+   .container img{
+       width: 10px;
+   }
+   .container img:nth-child(3n) {
+       width:20%;
+   }
