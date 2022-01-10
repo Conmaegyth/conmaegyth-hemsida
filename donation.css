@@ -1,27 +1,19 @@
 body {
-    background-color:chartreuse;
+    background-color:cyan;
     display: contents center;
+    text-align: center;
    }
 
-    .yoghurt {
+    .donation {
         margin: auto;
-        width: 95%;
+        width: 50%;
         border: 3px solid green;
         padding: 10px;
-      }
 
-      h1{
-          text-align: center;
-      }
-.idiot{
-    
         text-align: center;
-        }
-
-      h3{
-        text-align: center;  
       }
 
+   
    label {
        display: block;
        font: 1rem 'Times New Roman', Times-New-Roman
@@ -38,10 +30,4 @@ body {
    }
    .container img:nth-child(3n) {
        width:20%;
-   }
-   .bad {
-       text-align: center;
-   }
-   .medium-copy yellow justify {
-       text-align: center;
    }
